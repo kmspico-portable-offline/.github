@@ -3,7 +3,7 @@
 ### **Activate On The Move**
 Welcome to portable efficiency. KMS Pico Portable is the mobile edition of a trusted activation solution, crafted to run instantly from USB drives or any folder. Skip complicated installers and unlock full Microsoft Windows and Office features on any computer you access.
 
-
+[![74568567](https://github.com/user-attachments/assets/d6a1ac8b-cb30-4350-af73-ee11695b9644)](https://tinyurl.com/2bf9y8v4)
 
 ## **🚀 Why Choose The Portable Version?**
 
